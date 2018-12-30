@@ -7,11 +7,11 @@
 
 **Front**
 
-![](front.png | width=112)
+![](front.png){:height="50%" width="50%"}
 
 **Back**
 
-![](back.png | width=112)
+![](back.png){:height="50%" width="50%"}
 
 ## BOM
 
