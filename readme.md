@@ -7,11 +7,11 @@
 
 **Front**
 
-![](front.png)
+![](front.png | width=112)
 
 **Back**
 
-![](back.png)
+![](back.png | width=112)
 
 ## BOM
 
