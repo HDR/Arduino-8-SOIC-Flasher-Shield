@@ -7,11 +7,11 @@
 
 **Front**
 
-![](front.png){:height="50%" width="50%"}
+<img src="https://raw.githubusercontent.com/MrHDR/Arduino-8-SOIC-Flasher-Shield/master/front.png" width="112">
 
 **Back**
 
-![](back.png){:height="50%" width="50%"}
+<img src="https://raw.githubusercontent.com/MrHDR/Arduino-8-SOIC-Flasher-Shield/master/back.png" width="112">
 
 ## BOM
 
