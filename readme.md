@@ -1,6 +1,6 @@
 # Arduino Uno 8-SOIC Shield
 
-[Purchase on OSHPARK](https://oshpark.com/shared_projects/2MPbcIoj)
+[Purchase on OSHPARK](https://oshpark.com/shared_projects/mIMmTXP0)
 
 
 ## Pictures
